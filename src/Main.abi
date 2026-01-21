@@ -1,0 +1,4 @@
+
+======= app/src/Main.sol:Main =======
+Contract JSON ABI
+[{"inputs":[],"name":"main","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"pure","type":"function"}]
